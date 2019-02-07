@@ -92,9 +92,11 @@ We have built Five-Star Mowing’s business website with the following pages and
   * npm install
   * cd ..
   * Open the project in a source code editor like Vscode
+  * Use console command 'npm run dev' to run servers concurrently
+  * Ready to Go!
+  * For developing your own version, do the above plus the following;
   * Open config/keys_dev.js
   * Replace the database URI with your own, for example a link to a database on Mlab.com
-  * Ready to Go!
 
 ####End user;
   * visit https://fierce-earth-84978.herokuapp.com/
